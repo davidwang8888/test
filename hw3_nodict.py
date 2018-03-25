@@ -1,7 +1,7 @@
 # Homework 3-2:Counters the characters
 # 使用set & dict
 #
-# 建立dict
+# 建立字典mydict
 mydict = {}
 
 # Input data
