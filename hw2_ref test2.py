@@ -1,7 +1,7 @@
-# !/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#1231
-#123123
+
+
 items = ['PS4', 'Switch', 'Xbox']
 prices = [100, 90, 120]
 buy_items = []
