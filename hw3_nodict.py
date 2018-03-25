@@ -6,7 +6,7 @@ mydict = {}
 
 # Input data
 sentence = input("Please input data: \n")
-print('-'*15)
+print('-'*16)
 
 # 建立set
 languages = set(sentence)           # set會自動將重複的字元刪除
